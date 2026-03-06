@@ -37,6 +37,3 @@ Marketing analytics systems
 ---
 
 ## 🌐 Connect
-
-LinkedIn: (your link)  
-Portfolio: (your GitHub projects)
