@@ -35,5 +35,3 @@ Product-led growth
 Marketing analytics systems  
 
 ---
-
-## 🌐 Connect
