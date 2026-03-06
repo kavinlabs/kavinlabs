@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kavin 👋
 
-<!--
-**kavinlabs/kavinlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-driven growth & marketing analytics.
 
-Here are some ideas to get you started:
+I build analytics systems and experiments that help
+products grow using data, insights, and experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Growth Projects
+
+• SaaS Growth Funnel Analysis  
+• Marketing Campaign Optimization  
+• Customer Churn Prediction  
+• Startup Growth Strategy Case Study  
+
+---
+
+## 📊 Skills
+
+Growth Analytics  
+Marketing Analytics  
+Customer Segmentation  
+Funnel Analysis  
+Experimentation & A/B Testing  
+
+Python • SQL • Tableau • Power BI • Machine Learning
+
+---
+
+## 📈 Currently Exploring
+
+Growth experimentation  
+Product-led growth  
+Marketing analytics systems  
+
+---
+
+## 🌐 Connect
+
+LinkedIn: (your link)  
+Portfolio: (your GitHub projects)
